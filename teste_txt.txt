@@ -1,0 +1,4 @@
+nome;idade;logradouro;numero;complemento;cidade;estado;pais
+lucas;20;Rua Teodoro Mascarenhas;312;A;Sao Paulo;SP;Brasil
+kaique;22;rua antonio herdeiro;181;apto 24;Sao Paulo;SP;Brasil
+luan;20;rua caminho do engenho;335;b;Sao Paulo;SP;Brasil
