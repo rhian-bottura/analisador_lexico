@@ -118,12 +118,3 @@ def tokeniza(exp):
 
     return lista_item_tipo
 
-def ler_arquivo_por_delimitador():
-    DELIMITADOR = ";"
-    lista_tokens = []
-    arquivo_delimitado = open("./teste.txt", "r").read().split(DELIMITADOR)
-    for exp in arquivo_delimitado:
-        lista_tokens.append(tokeniza(exp))
-    print(lista_tokens)
-
-ler_arquivo_por_delimitador()
